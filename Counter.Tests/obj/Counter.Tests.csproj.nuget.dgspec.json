@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter.Tests\\Counter.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter.Tests\\Counter.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter.Tests\\Counter.Tests.csproj",
+        "projectName": "Counter.Tests",
+        "projectPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter.Tests\\Counter.Tests.csproj",
+        "packagesPath": "C:\\Users\\randy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\randy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj": {
+                "projectPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj",
+        "projectName": "Counter",
+        "projectPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj",
+        "packagesPath": "C:\\Users\\randy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\randy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

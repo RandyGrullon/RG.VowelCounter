@@ -1,0 +1,12 @@
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\bin\Debug\net5.0\Counter.deps.json
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\bin\Debug\net5.0\Counter.dll
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\bin\Debug\net5.0\ref\Counter.dll
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\bin\Debug\net5.0\Counter.pdb
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.csproj.AssemblyReference.cache
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.AssemblyInfoInputs.cache
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.AssemblyInfo.cs
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.dll
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\ref\Counter.dll
+C:\Users\randy\Desktop\Todo\code\Tendencias 3videos\KataVowels\Counter\obj\Debug\net5.0\Counter.pdb
