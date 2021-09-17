@@ -84,7 +84,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj",
-        "projectName": "Counter",
+        "projectName": "RG.VowelsCounter",
         "projectPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\Counter.csproj",
         "packagesPath": "C:\\Users\\randy\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\randy\\Desktop\\Todo\\code\\Tendencias 3videos\\KataVowels\\Counter\\obj\\",

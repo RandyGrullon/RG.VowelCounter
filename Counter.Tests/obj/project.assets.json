@@ -1254,14 +1254,14 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Counter/1.0.0": {
+      "RG.VowelsCounter/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/Counter.dll": {}
+          "bin/placeholder/RG.VowelsCounter.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Counter.dll": {}
+          "bin/placeholder/RG.VowelsCounter.dll": {}
         }
       }
     }
@@ -4953,7 +4953,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Counter/1.0.0": {
+    "RG.VowelsCounter/1.0.0": {
       "type": "project",
       "path": "../Counter/Counter.csproj",
       "msbuildProject": "../Counter/Counter.csproj"
@@ -4961,10 +4961,10 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "Counter >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.9.4",
       "NUnit >= 3.13.1",
       "NUnit3TestAdapter >= 3.17.0",
+      "RG.VowelsCounter >= 1.0.0",
       "coverlet.collector >= 3.0.2"
     ]
   },

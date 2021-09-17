@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Counter")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Randy Grullon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Counter")]
+[assembly: System.Reflection.AssemblyProductAttribute("Algorith")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Counter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
